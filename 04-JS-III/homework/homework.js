@@ -176,6 +176,7 @@ function todosIguales(arreglo) {
     
   }
   return true
+  
 } 
 
 
